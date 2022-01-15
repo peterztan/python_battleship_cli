@@ -1,2 +1,3 @@
-# python_cli_tic_tac_toe
-CLI Tic Tac Toe game in Python
+# Python Battleship CLI
+
+Command Line Battleship game in Python
